@@ -1,0 +1,3 @@
+- 👋 Hi my Name: Derrick Amaral Borba
+- 👋 Email: borbade@sheridancollege.ca
+- 👋 Git Repo: https://github.com/DABorba/SoftwareDefinedNetwork.git
